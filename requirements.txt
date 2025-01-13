@@ -1,0 +1,6 @@
+We will not be using any libraries or frameworks like keras, tensorflow, etc. For this mini project our goal is to understand the basics as much as possible by going as low level as possible (obviously not coding in C or assembly) using openCV
+Make sure have the bellow dependencies using "pip install" or any other package manager
+
+openCV => version (4.10.0.84)
+numpy => 1.26.4
+Pillow => 11.1.0
